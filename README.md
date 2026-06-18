@@ -1,1 +1,1 @@
-# setruk-data
+# setruktur-data
